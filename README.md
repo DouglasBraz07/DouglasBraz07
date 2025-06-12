@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Douglas Braz 👋
 
 - 🔭 Hoje estou em busca de minha primeira vaga como programador
-- 🌱 Atualmente estou estudando JavaScript
+- 🌱 Atualmente estou estudando ReactJs
 - 📫 Contate-me no email: brazextreme@hotmail.com
 
 <div>
