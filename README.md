@@ -1,7 +1,6 @@
 ### Olá! Eu me chamo Douglas Braz 👋
 
-- 🔭 Hoje estou em busca de minha primeira vaga como programador
-- 🌱 Atualmente estou estudando ReactJs
+- Desenvolvedor Front-End júnior em transição de carreira, com conhecimento sólido em HTML, CSS, JavaScript e React. Atualmente estou concluindo um curso EAD de Desenvolvedor Full Stack, com foco em construção de aplicações web modernas. Formado como técnico em análise e desenvolvimento de sistemas, possuo boa base lógica, familiaridade com versionamento de código (GIT) e estou sempre buscando aprender novas tecnologias e boas práticas de desenvolvimento. Busco minha primeira oportunidade na área de tecnologia para aplicar meus conhecimentos e crescer junto com a equipe.
 - 📫 Contate-me no email: brazextreme@hotmail.com
 
 <div>
